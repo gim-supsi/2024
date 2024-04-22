@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="author" content="Nome Cognome" />
+	<title>Prova 1</title>
+	<style type="text/css">
+		html{
+			height:100%;
+		}
+		body{
+			background-color: rgb(235,235,235);
+		}
+		canvas{
+			position:absolute;
+			margin-left: -200px;
+			margin-top: -200px;
+			top: 50%;
+		}
+		#sx {
+			left: calc(50% - 220px);
+		}
+		#dx {
+			left: calc(50% + 220px);
+		}
+	</style>
+</head>
+<body>
+	<canvas id="sx" width=400 height=400></canvas>
+	<canvas id="dx" width=400 height=400></canvas>
+	<script type="module">
+
+		import Sequencer from './js/sequencer.min.js';
+
+		Sequencer.make({
+			canvas       	 : document.querySelector("#sx"),
+			from         	 : "img/can/0000.png",
+			to           	 : "img/can/0203.png",
+			direction        : "y",
+			playMode         : "hover",
+			loop         	 : "loop",
+		})
+		Sequencer.make({
+			canvas       	 : document.querySelector("#dx"),
+			from         	 : "img/can/0000.png",
+			to           	 : "img/can/0203.png",
+			direction        : "-y",
+			playMode         : "hover",
+			loop         	 : "loop",
+		})
+
+	</script>
+</body>
+</html>
