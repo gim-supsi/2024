@@ -18,3 +18,7 @@ La visione de filmati storici verrà svolta in gruppo (ca. 1.5h per lezione). Vi
 
 ## Valutazione 
 I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (“realizzazione”). 
+
+## Link ai progetti
+- Alberti Gaia	https://github.com/Gaialberti01/GIM		
+- Amelotti Ginevra																																															
