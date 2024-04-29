@@ -21,4 +21,38 @@ I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (
 
 ## Link ai progetti
 - Alberti Gaia	https://github.com/Gaialberti01/GIM		
-- Amelotti Ginevra																																															
+- Amelotti Ginevra
+- Assamoi Matteo
+- Avci Kadir
+- Bassani Mirko
+- Benedetti Olivia
+- Bettazza Simone
+- Bianchetti Giorgia
+- Brekashvili Anana	https://github.com/Anana-B/GIM
+- Camathias Nathan
+- Charai Ines
+- Chicco Jacopo
+- Copa Arianna
+- Esposito Gennaro	https://github.com/GennEspo/GIM
+- Ghilardi Veronica
+- Lapesa Greta
+- Mariucci Leonardo
+- Martins Da Silva Margarida
+- Mazza Tasio   https://github.com/tasiomazza/GIM
+- Millenaar Luciana
+- Montanelli Mirta
+- Paredes Juliana	https://github.com/JulianaParedes/GIM		
+- Pejrani Andrea
+- Polledri Nathalie
+- Puttini Michelle	https://github.com/michelleputtini/GIM
+- Ravetti Andrea
+- Reviglio Marta
+- Scenini Zoe
+- Sommaiuolo Cristian			
+- Spanò Beatrice
+- Stanga Tommaso	https://github.com/tommifunky/GIM
+- Vaglini Valerio
+- Wiesendanger Anastasia
+- Zanetti Piero	https://github.com/ZanettiPiero/GIM
+- Zingariello Samanta
+- Zucca Giulia											
