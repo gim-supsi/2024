@@ -15,14 +15,13 @@ Utilizzare lo script “Sequencer” (esercizio 1) per renderlo interattivo e/o 
 
 #### Consegna
 Cartella contenente almeno un file .html con la sequenza animata o interattiva.  
-Pubblicare l’esercizio sulla piattaforma GitHub e pubblicare il link a github.io sul file README.md per un accesso diretto ai file(s). 
+Pubblicare l’esercizio sulla piattaforma GitHub e pubblicare il link a github.io sul file README.md principale per un accesso diretto ai file(s). 
 
 ## Struttura cartella
 ```
 GIM/esercizio_2  	
 	/img  (cartella con le sequenze, organizzata liberamente)  
 	/js   (cartella con la libreria)  
-	README.md
 	inxex.html  
 	...
 ``` 
