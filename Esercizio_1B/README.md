@@ -13,14 +13,13 @@ Il linguaggio può essere fotografico, illustrativo o astratto…
 - massimo 100 immagini per sequenza 
 
 ## Consegna
-Pubblicare gli esercizi sulla piattaforma GitHub e pubblicare il link a github.io sul file README.md per un accesso diretto ai files. 
+Pubblicare gli esercizi sulla piattaforma GitHub e pubblicare il link a github.io sul file README.md principale per un accesso diretto ai files. 
 
 ## Struttura cartella
 ```
 GIM/esercizio_1B
 	/img  (cartella con le sequenze, organizzata liberamente)
 	/js   (cartella con la libreria)
-	README.md
 	index.html (nome del file principale, libero)
 	…	
 ```
