@@ -16,14 +16,13 @@ con varianti a 2 e a 3 fotogrammi:
 
 #### Consegna
 Cartella contenente 8 files .html con le 8 sequenze.  
-Pubblicare gli esercizi sulla piattaforma GitHub e pubblicare il link a github.io sul file README.md per un accesso diretto ai files.  
+Pubblicare gli esercizi sulla piattaforma GitHub e pubblicare il link a github.io sul file README.md principale per un accesso diretto ai files.  
 
 #### Struttura cartella  
 ```
 GIM/esercizio_1A  	
 	/img  (cartella con le sequenze, organizzata liberamente)  
 	/js   (cartella con la libreria)  
-	README.md
 	acceso_spento_2.html  
 	acceso_spento_3.html  
 	aperto_chiuso_2.html  
