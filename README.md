@@ -21,18 +21,18 @@ I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (
 
 ## Link ai progetti
 - Alberti Gaia	https://github.com/Gaialberti01/GIM		
-- Amelotti Ginevra
-- Assamoi Matteo
+- Amelotti Ginevra  https://github.com/AmelottiGinevra/GIM
+- Assamoi Matteo  https://matteoassamoi.github.io/GIMM/
 - Avci Kadir
 - Bassani Mirko
 - Benedetti Olivia
-- Bettazza Simone
-- Bianchetti Giorgia
+- Bettazza Simone   https://github.com/simobobobo/GIM
+- Bianchetti Giorgia    https://github.com/gbnchtt/GIM
 - Brekashvili Anana	https://github.com/Anana-B/GIM
 - Camathias Nathan
 - Charai Ines
-- Chicco Jacopo
-- Copa Arianna
+- Chicco Jacopo https://github.com/jakyten/GIM
+- Copa Arianna  https://github.com/ariannacopa/GIM
 - Esposito Gennaro	https://github.com/GennEspo/GIM
 - Ghilardi Veronica
 - Lapesa Greta
@@ -43,16 +43,16 @@ I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (
 - Montanelli Mirta
 - Paredes Juliana	https://github.com/JulianaParedes/GIM		
 - Pejrani Andrea
-- Polledri Nathalie
+- Polledri Nathalie https://github.com/nathaliepolledri/GIM
 - Puttini Michelle	https://github.com/michelleputtini/GIM
-- Ravetti Andrea
-- Reviglio Marta
-- Scenini Zoe
+- Ravetti Andrea    https://github.com/ravettiandrea/GIM
+- Reviglio Marta    https://github.com/martareviglio/GIM
+- Scenini Zoe   https://github.com/zoescenini/GIM
 - Sommaiuolo Cristian			
 - Spanò Beatrice
 - Stanga Tommaso	https://github.com/tommifunky/GIM
-- Vaglini Valerio
+- Vaglini Valerio   https://github.com/valeriovaglini/GIM
 - Wiesendanger Anastasia
 - Zanetti Piero	https://github.com/ZanettiPiero/GIM
-- Zingariello Samanta
-- Zucca Giulia											
+- Zingariello Samanta   https://github.com/Samyzinga/GIM
+- Zucca Giulia	https://github.com/ZuccaGiulia/GIM										
