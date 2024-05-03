@@ -35,7 +35,7 @@ I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (
 - Copa Arianna  https://github.com/ariannacopa/GIM
 - Esposito Gennaro	https://github.com/GennEspo/GIM
 - Ghilardi Veronica
-- Lapesa Greta
+- Lapesa Greta  https://gretalapesa.github.io/GIM/ 
 - Mariucci Leonardo
 - Martins Da Silva Margarida
 - Mazza Tasio   https://github.com/tasiomazza/GIM
