@@ -2,7 +2,7 @@
 Che ora è?
 
 ## Brief
-Progetta un nuovo tipo di orologio.
+Progetta un nuovo tipo di orologio.  
 L’orologio è l’oggetto cinetico per eccellenza. Individua un aspetto intrigante (tecnico, funzionale, ironico, surreale o formale) e programma un prototipo funzionante.  
 
 ## Bonus
