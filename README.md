@@ -25,7 +25,7 @@ I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (
 - Assamoi Matteo  https://github.com/MatteoAssamoi/GIMM
 - Avci Kadir
 - Bassani Mirko  https://github.com/BassaniMirko/GIM
-- Benedetti Olivia
+- Benedetti Olivia  https://github.com/GattoViola/GIM
 - Bettazza Simone   https://github.com/simobobobo/GIM
 - Bianchetti Giorgia    https://github.com/gbnchtt/GIM
 - Brekashvili Anana	https://github.com/Anana-B/GIM
@@ -52,7 +52,7 @@ I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (
 - Spanò Beatrice
 - Stanga Tommaso	https://github.com/tommifunky/GIM
 - Vaglini Valerio   https://github.com/valeriovaglini/GIM
-- Wiesendanger Anastasia
+- Wiesendanger Anastasia  https://github.com/AnastasiaWiesendanger/GIM
 - Zanetti Piero	https://github.com/ZanettiPiero/GIM
 - Zingariello Samanta   https://github.com/Samyzinga/GIM
 - Zucca Giulia	https://github.com/ZuccaGiulia/GIM										
