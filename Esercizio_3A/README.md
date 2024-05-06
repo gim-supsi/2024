@@ -2,11 +2,11 @@
 Che ora è?
 
 ## Brief
-Progetta un nuovo tipo di orologio.  
-L’orologio è l’oggetto cinetico per eccellenza. Individua un aspetto intrigante (tecnico, funzionale, ironico, surreale o formale) e programma un prototipo funzionante.  
+Progettare un nuovo tipo di orologio.  
+L’orologio è l’oggetto cinetico per eccellenza; individuare un aspetto intrigante (tecnico, funzionale, ironico, surreale o formale) e programmare un prototipo funzionante.  
 
 ## Bonus
-- L’applicazione è anche una web app per mobile
+- L’applicazione è anche una “web app” per mobile
 
 ## Restrizioni
 - Nessuna 
