@@ -18,13 +18,13 @@ Pubblicare l’esercizio sulla piattaforma GitHub e pubblicare il link a github.
 ## Struttura cartelle
 ```
 GIM/esercizio_3B/neve
-	.html 
+	index.html 
 	...
 GIM/esercizio_3B/pioggia
-	.html 
+	index.html 
 	...
 GIM/esercizio_3B/pong
-	.html 
+	index.html 
 	...
 
 ``` 
