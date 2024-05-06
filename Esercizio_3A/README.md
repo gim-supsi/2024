@@ -18,6 +18,6 @@ Pubblicare l’esercizio sulla piattaforma GitHub e pubblicare il link a github.
 ## Struttura cartella
 ```
 GIM/esercizio_3A
-	inxex.html  
+	index.html  
 	...
 ``` 
