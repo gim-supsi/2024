@@ -33,6 +33,9 @@ I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (
 - [The Coding Train](https://thecodingtrain.com)², Daniel Shiffmann
 - [Learn p5js](https://p5js.org/learn/)
 
+¹ È possibile comandare la versione cartacea<br/>
+² Lezioni video
+
 ## Link ai progetti
 - Alberti Gaia	https://github.com/Gaialberti01/GIM		
 - Amelotti Ginevra  https://github.com/AmelottiGinevra/GIM
