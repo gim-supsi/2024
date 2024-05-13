@@ -37,10 +37,10 @@ I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (
 - Ghilardi Veronica
 - Lapesa Greta  https://github.com/GretaLapesa/GIM
 - Mariucci Leonardo  https://github.com/LeoMariu/GIM
-- Martins Da Silva Margarida
+- Martins Da Silva Margarida  https://github.com/margaridamartinss/GIM
 - Mazza Tasio   https://github.com/tasiomazza/GIM
-- Millenaar Luciana
-- Montanelli Mirta
+- Millenaar Luciana  https://github.com/MillenaarLuciana/GIM
+- Montanelli Mirta  https://github.com/mirtamontanelli/GIM
 - Paredes Juliana	https://github.com/JulianaParedes/GIM		
 - Pejrani Andrea  https://github.com/AndreaPejrani/GIM
 - Polledri Nathalie https://github.com/nathaliepolledri/GIM
@@ -49,7 +49,7 @@ I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (
 - Reviglio Marta    https://github.com/martareviglio/GIM
 - Scenini Zoe   https://github.com/zoescenini/GIM
 - Sommaiuolo Cristian	https://github.com/XianSom/GIM		
-- Spanò Beatrice
+- Spanò Beatrice  https://github.com/BeatriceSpano/GIM
 - Stanga Tommaso	https://github.com/tommifunky/GIM
 - Vaglini Valerio   https://github.com/valeriovaglini/GIM
 - Wiesendanger Anastasia  https://github.com/AnastasiaWiesendanger/GIM
