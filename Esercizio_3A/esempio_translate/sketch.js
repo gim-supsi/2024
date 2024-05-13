@@ -20,7 +20,7 @@ function draw() {
 
 		push()
 		for (let i=0; i<10; i++) {
-			const l = random(30, 60)
+			const l = random(20, 80)
 			rotate(noise(j  + frameCount * 0.002) * 2 - 1)
 			fill(0)
 			rect(0, -10, l, 20)
