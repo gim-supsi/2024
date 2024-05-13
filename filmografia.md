@@ -38,7 +38,7 @@ Filmografia, letture ed esercizi
 - Wax Experiments, 1921-26  
 - Ornament Sound Experiments, 1932  
 
-#### James Patterson  
+#### [James Patterson](https://presstube.com/hello/)  
 - A_lib_1 , 2000  
 - Logotopia Dynamics, 2000  
 - Non Sequential Builder Extended, 2000  
