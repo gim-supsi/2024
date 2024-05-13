@@ -10,12 +10,12 @@ Filmografia, letture ed esercizi
 4. Motion capture
 
 #### Esempi di motion capture  
-1. Bio Motion Lab (corpo umano)  
+1. [Bio Motion Lab (corpo umano)](https://www.biomotionlab.ca/html5-bml-walker/)  
 2. p1 200 (piccione)  
 
-#### Phenakistiscopio (1833)  
-#### Zoetrope (1833)  
-#### Praxinoscopio (1877) 
+#### [Phenakistiscopio](https://it.wikipedia.org/wiki/Fenachistoscopio) (1833)  
+#### [Zoetrope](https://it.wikipedia.org/wiki/Zootropio) (1833)  
+#### [Praxinoscopio](https://it.wikipedia.org/wiki/Prassinoscopio) (1877) 
 #### Flipbook   
 
 #### Eadweard Muybridge & Étienne-Jules Marey (1850—80)  
@@ -30,12 +30,12 @@ Filmografia, letture ed esercizi
 - [Film ist... #1 Movement and time](https://www.youtube.com/watch?v=dFKFuVpaKQo), 2004  
 
 #### Oskar Fischinger  
-- Studie nr. 5, 1930  
-- Studie nr. 7, 1931  
-- Kreise, 1933  
-- Komposition in Blau, 1935  
+- [Studie nr. 5](https://www.youtube.com/watch?v=NmtoUN1lpf0), 1930  
+- [Studie nr. 7](https://vimeo.com/342597616), 1931  
+- [Kreise](https://www.youtube.com/watch?v=nqOyOvmY67s), 1933  
+- [Komposition in Blau](https://vimeo.com/89193540), 1935  
 - Muratti Privat, 1935  
-- Wax Experiments, 1921-26  
+- [Wax Experiments](https://www.youtube.com/watch?v=zXqIKlCzqL0), 1921-26  
 - Ornament Sound Experiments, 1932  
 
 #### [James Patterson](https://presstube.com/hello/)  
@@ -54,91 +54,84 @@ Filmografia, letture ed esercizi
 - [Wikipedia](https://en.wikipedia.org/wiki/Visible_Human_Project)
 
 #### Ray & Charles Eames  
-- The Powers of ten, 1977  
-- A rough sketch, pre 1977?  
-- Atlas: A Sketch Of The Rise And Fall Of The Roman Empire, 1976  
-- Polaroid SX-70 Ad, 1970  
+- [The Powers of ten](https://www.youtube.com/watch?v=0fKBhvDjuy0&t=1s) , 1977  
+- [A rough sketch](https://www.youtube.com/watch?v=7f5x_dRKIF4&t=2s), pre 1977?  
+- [Atlas: A Sketch Of The Rise And Fall Of The Roman Empire](https://www.youtube.com/watch?v=dJWke49jyic), 1976  
+- [Polaroid SX-70 Ad](https://www.youtube.com/watch?v=zpv8J8e9gWI), 1970  
 
 #### Walt Disney  
-- Walt Disney's MultiPlane Camera, 1957  
+- [Walt Disney's MultiPlane Camera](https://www.youtube.com/watch?v=YdHTlUGN1zw), 1957  
 
 #### Stephen Malinowski, Music Animation Machine  
 - J.S. Bach, Herr Gott, 1990  
-- Chopin, Etude Opus 10 #4, 1990  
-- Chopin, Etude Opus 10 #8, 1990  
+- [Chopin, Etude Opus 10 #4](https://www.youtube.com/watch?v=kA3YFNG1jJs), 1990  
+- [Chopin, Etude Opus 10 #8](https://www.youtube.com/watch?v=3gH3SCJzow8), 1990  
 
 #### Arseny Avraamov  
 - Ornamental Sound Animation, 1930  
 
 #### Martin Arnold  
-- Passage à l'acte, 1993  
+- [Passage à l'acte](https://vimeo.com/398345542), 1993  
 
 ## 3. Il mondo surreale  
 
 #### Len Lye  
-- Raynbow Dance, 1936  
-- Free Radicals, 1958  
+- [Raynbow Dance](https://www.youtube.com/watch?v=JpVrIjj8mhU), 1936  
+- [Free Radicals](https://www.youtube.com/watch?v=LpAOHBHxaSM), 1958  
 
 #### Jan Svankmajer  
-- Meat Love, 1989  
-- Flora, 1989  
-- A Game with stones, 1965  
-- Food, 1992  
+- [Meat Love](https://www.youtube.com/watch?v=g_Xqnmk5Zic), 1989  
+- [Flora](https://www.youtube.com/watch?v=np-kFkDLT7k), 1989  
+- [A Game with stones](https://vimeo.com/99961406), 1965  
+- [Food](https://www.youtube.com/watch?v=lYwAzLlUbV8), 1992  
 
 #### Man Ray  
-- The Return To Reason, 1923  
+- [The Return To Reason](https://www.youtube.com/watch?v=9ijx-ZYVxkQ), 1923  
 
 #### Georges Schwitzgebel  
-- Le vol d'icare, 1974  
-- 78 tours, 1985  
-- L'homme sans ombre, 2004  
-- Jeu, 2006  
+- [Le vol d'icare](https://www.youtube.com/watch?v=4N4S9HLI8dA), 1974  
+- [78 tours](https://www.youtube.com/watch?v=xSrE3oNZz3w), 1985  
+- [L'homme sans ombre](https://www.youtube.com/watch?v=LpAXlR1QG6c), 2004  
+- [Jeu](https://www.youtube.com/watch?v=hW-n8GDegJE), 2006  
 
 #### Fischli & Weiss  
-- Der Lauf der Dinge, 1987  
+- [Der Lauf der Dinge](https://www.facebook.com/earways/videos/der-lauf-der-dinge-the-way-things-go-fischli-weiss/570376236477565/), 1987  
 
 ## 4. Geometrie  
 
 #### Auguste & Louis Lumière  
-- Danse Serpentine, Loie Fuller, 1899  
+- [Danse Serpentine](https://www.youtube.com/watch?v=iCJ7glJLRyE), Loie Fuller, 1899  
 
 #### Hans Richter  
-- Rhythmus 21, 1921  
-- Ghosts Before Breakfast, 1928  
+- [Rhythmus 21](https://www.youtube.com/watch?v=R_kceafWtbE), 1921  
+- [Ghosts Before Breakfast](https://www.youtube.com/watch?v=R1RtfQDPkrE), 1928  
 
 #### Larry Cuba  
-- Calculated Movements, 1985  
-        [https://archive.org/details/1985LarryCubaCalculatedMovements]  
-
+- [Calculated Movements](https://archive.org/details/1985LarryCubaCalculatedMovements), 1985  
+      
 #### Busby Berkeley  
 - Selezione di coreografie, 1930-40 (Nota file con selezione)  
 
 #### Ralph Steiner
-- H2O, 1929 (Accompagnare con brano musicale a scelta)  
+- [H2O](https://www.youtube.com/watch?v=1STF_usLSQY), 1929 (Accompagnare con brano musicale a scelta)  
 
 #### Norman McLaren  
 - [NFB](https://www.nfb.ca/playlists/donald_mcwilliams/mclaren/])  
-- Canon (parte 1 e 3), 1964  
-        [https://www.youtube.com/watch?v=lxNhUswEO7c&list=PLHerjfWGX0CWwxlfnGqJgcK9uQY36abbf&index=2]  
-- Animated Motion No.5, 1978  
-- Le Merle, 1958  
-- Pas de Deux, 1968  
-        [https://www.youtube.com/watch?v=WopqmACy5XI]  
-- New York Lightboard, 1961  
-- Pen Point Percussion, 1951  
-        [https://www.youtube.com/watch?v=Q0vgZv_JWfM]  
-- Synchromy, 1971  
-- Spheres, 1969  
-        [https://www.youtube.com/watch?v=XiBiO66pOqg]  
+- [Canon (parte 1 e 3)](https://www.youtube.com/watch?v=lxNhUswEO7c&list=PLHerjfWGX0CWwxlfnGqJgcK9uQY36abbf&index=2), 1964  
+- [Animated Motion No.5](https://www.youtube.com/watch?v=RwOpBEQPRkk), 1978  
+- [Le Merle](https://www.youtube.com/watch?v=oTBzP6oaRQc), 1958  
+- [Pas de Deux](https://www.youtube.com/watch?v=WopqmACy5XI), 1968  
+- [New York Lightboard](https://www.youtube.com/watch?v=MHI6JVR-mho), 1961  
+- [Pen Point Percussion](https://www.youtube.com/watch?v=Q0vgZv_JWfM), 1951  
+- [Synchromy](https://www.youtube.com/watch?v=_UA40sL06sU), 1971  
+- [Spheres](https://www.youtube.com/watch?v=XiBiO66pOqg), 1969   
 
 #### Segundo de Chomon  
-- Les Kiriki Acrobates Japonais, 1907  
+- [Les Kiriki Acrobates Japonais](https://www.youtube.com/watch?v=xf36AZ9cnmA), 1907  
 
 #### Mirai Mizue  
-- Modern, 2011  
-        [https://www.youtube.com/watch?v=fVbV-f0rMFM]  
-- Wonder, 2015  
-        [https://www.youtube.com/watch?v=GNtqywa7ASM]  
+- [Modern](https://www.youtube.com/watch?v=fVbV-f0rMFM), 2011  
+- [Wonder](https://www.youtube.com/watch?v=GNtqywa7ASM), 2015  
 
 ## 5. Videoclip e titoli di testa  
 
@@ -149,18 +142,17 @@ Filmografia, letture ed esercizi
 - Meditation, 20??  
 
 #### Rogier van der Zwaag  
-- Nobody Beats the Drum, Grindin, 2010  
-        [https://vimeo.com/9625370]  
-- Nobody Beats the Drum, Grindin – Making of, 2010  
-        [http://www.youtube.com/watch?v=XBqxjvDAAWE&feature=channel]  
+- [Nobody Beats the Drum, Grindin](https://vimeo.com/9625370), 2010  
+- [Nobody Beats the Drum, Grindin – Making of](http://www.youtube.com/watch?v=XBqxjvDAAWE&feature=channel), 2010
+  
 #### Saul Bass  
-- The Man With The Golden Arm, 1955  
-- Vertigo, 1958  
-- North By Northwest, 1959  
-- Ocean's Eleven, 1960  
-- Psycho, 1960  
-- Grand Prix, 1966  
-- Casino, 1995  
+- [The Man With The Golden Arm](https://www.artofthetitle.com/title/the-man-with-the-golden-arm/), 1955  
+- [Vertigo](https://www.artofthetitle.com/title/vertigo/), 1958  
+- [North By Northwest](https://www.artofthetitle.com/title/north-by-northwest/), 1959  
+- [Ocean's Eleven](https://www.artofthetitle.com/title/oceans-eleven/), 1960  
+- [Psycho](https://www.artofthetitle.com/title/psycho/), 1960  
+- [Grand Prix](https://www.artofthetitle.com/title/grand-prix/), 1966  
+- [Casino](https://www.artofthetitle.com/title/casino/), 1995  
 
 #### Pablo Ferro  
 - Dr. Strangelove, 1964  
