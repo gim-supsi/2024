@@ -19,6 +19,20 @@ La visione de filmati storici verrà svolta in gruppo (ca. 1.5h per lezione). Vi
 ## Valutazione 
 I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (“realizzazione”). 
 
+## Risorse
+
+#### Scrivere e distribuire codice
+- [Visual Studio](https://code.visualstudio.com)
+- [GitHub Desktop](https://desktop.github.com)
+
+#### Documentarsi e imparare a programmare in JavaScript
+- [Mozilla: JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Mozilla: Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+- [Eloquent JavaScript](https://eloquentjavascript.net)¹, Marijn Haverbeke
+- [The Nature Of Code](https://natureofcode.com/random/)¹, Daniel Shiffmann
+- [The Coding Train](https://thecodingtrain.com)², Daniel Shiffmann
+- [Learn p5js](https://p5js.org/learn/)
+
 ## Link ai progetti
 - Alberti Gaia	https://github.com/Gaialberti01/GIM		
 - Amelotti Ginevra  https://github.com/AmelottiGinevra/GIM
