@@ -11,17 +11,16 @@ Filmografia, letture ed esercizi
 
 #### Esempi di motion capture  
 1. [Bio Motion Lab (corpo umano)](https://www.biomotionlab.ca/html5-bml-walker/)  
-2. p1 200 (piccione)  
+2. [p1 200 (piccione)](https://www.biomotionlab.ca/older-projects/)  
 
 #### [Phenakistiscopio](https://it.wikipedia.org/wiki/Fenachistoscopio) (1833)  
 #### [Zoetrope](https://it.wikipedia.org/wiki/Zootropio) (1833)  
 #### [Praxinoscopio](https://it.wikipedia.org/wiki/Prassinoscopio) (1877) 
 #### Flipbook   
 
-#### Eadweard Muybridge & Étienne-Jules Marey (1850—80)  
+#### [Eadweard Muybridge & Étienne-Jules Marey](https://photofocus.com/inspiration/history-of-photography-muybridge-and-marey/) (1850—80)  
 - Marey: fusil photographique  
 - Chronophotographies, 1882  
-- https://photofocus.com/inspiration/history-of-photography-muybridge-and-marey/  
 
 #### Harold Edgerton  
 - Stopping Time, 1982 (Libro)  
@@ -68,7 +67,7 @@ Filmografia, letture ed esercizi
 - [Chopin, Etude Opus 10 #8](https://www.youtube.com/watch?v=3gH3SCJzow8), 1990  
 
 #### Arseny Avraamov  
-- Ornamental Sound Animation, 1930  
+- [Ornamental Sound Animation](https://www.youtube.com/watch?v=8EGFPZdiVqI), 1930  
 
 #### Martin Arnold  
 - [Passage à l'acte](https://vimeo.com/398345542), 1993  
@@ -136,9 +135,9 @@ Filmografia, letture ed esercizi
 ## 5. Videoclip e titoli di testa  
 
 #### The Books  
-- The Right Aint Shit, 2003  
-- Take Time, 2003  
-- Smells Like Content, 2005  
+- [The Right Aint Shit](https://www.youtube.com/watch?v=a6KnjRJzcc4), 2003  
+- [Take Time](https://www.youtube.com/watch?v=b1irbhY_dgY), 2003  
+- [Smells Like Content](https://www.youtube.com/watch?v=LT_Uf4hq-fk), 2005  
 - Meditation, 20??  
 
 #### Rogier van der Zwaag  
@@ -155,42 +154,43 @@ Filmografia, letture ed esercizi
 - [Casino](https://www.artofthetitle.com/title/casino/), 1995  
 
 #### Pablo Ferro  
-- Dr. Strangelove, 1964  
-- To die for, 1995  
+- [Dr. Strangelove](https://www.youtube.com/watch?v=e5hX0RdD34s), 1964  
+- [To die for](https://www.artofthetitle.com/title/to-die-for/), 1995  
 
 #### Maurice Binder  
-- Charade, 1963  
-- Repulsion, 1965  
-- Two For The Road, 1967  
+- [Charade](https://www.artofthetitle.com/title/charade/), 1963  
+- [Repulsion](https://artofthetitle.com/title/repulsion/), 1965  
+- [Two For The Road](https://www.youtube.com/watch?v=wMsZGgBV3x4), 1967  
 
 #### Imaginary Forces  
-- Dead Man on Campus, 1995  
+- [Dead Man on Campus](https://www.artofthetitle.com/title/dead-man-on-campus/), 1995  
 - Selezione di titoli di James Bond, 007  
 
 ## 6. Bonus  
 
 #### Ralph Steiner  
-- Mechanical Principles, 1930  
-- https://www.youtube.com/watch?v=suRIZjpMoao  
+- [Mechanical Principles](https://www.youtube.com/watch?v=suRIZjpMoao), 1930   
 
 #### Winsor McCcay  
-- Little Nemo, 1911  
+- [Little Nemo](https://www.youtube.com/watch?app=desktop&v=X2BTEqVVf4Q&vl=en), 1911  
 
 #### Carlos Vilardebó  
-- Le Circque De Calder, 1961 (con Musica di Pierre Henry)  
+- [Le Circque De Calder](https://www.youtube.com/watch?v=GS2q-8dFyiw), 1961 (con Musica di Pierre Henry)  
 
 #### Peter Liechti  
 - Signers Koffer, 1996  
 
 #### Viking Eggeling  
+
 #### John Whitney  
-- (Vertigo)  
+- [Vertigo](https://www.youtube.com/watch?v=Z6tG8DWmuWM), 1958  
 
   
 ## 7. Letture  
 
 #### Heinrich von Kleist  
-- Sul teatro di marionette, 1810  
+- Sul teatro di marionette, 1810
+
 #### Bruno Munari,  
 - Fotocronache – L‘isola dei tartufi, 1980  
 
