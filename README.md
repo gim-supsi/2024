@@ -17,7 +17,7 @@ Consegna a fine corso degli esercizi, ovvero: una serie di animazioni tematiche 
 La visione de filmati storici verrà svolta in gruppo (ca. 1.5h per lezione). Viene prevista una critica collettiva e discussione analitica. Gli esercizi potranno essere svolti in classe. Per la critica agli esercizi si prevedono incontri in piccoli gruppi o con tutta la classe.
 
 ## Valutazione 
-I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (“realizzazione”). 
+Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (“realizzazione”). 
 
 ## Risorse
 
