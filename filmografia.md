@@ -137,7 +137,7 @@ Filmografia, letture ed esercizi
 #### The Books  
 - [The Right Aint Shit](https://www.youtube.com/watch?v=a6KnjRJzcc4), 2003  
 - [Take Time](https://vimeo.com/user5011949), 2003  
-- [Smells Like Content]((https://vimeo.com/user5011949), 2005  
+- [Smells Like Content](https://vimeo.com/user5011949), 2005  
 - [Meditation](https://vimeo.com/user5011949), 20??  
 
 #### Rogier van der Zwaag  
