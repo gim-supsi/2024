@@ -136,9 +136,9 @@ Filmografia, letture ed esercizi
 
 #### The Books  
 - [The Right Aint Shit](https://www.youtube.com/watch?v=a6KnjRJzcc4), 2003  
-- [Take Time](https://vimeo.com/user5011949), 2003  
-- [Smells Like Content](https://vimeo.com/user5011949), 2005  
-- [Meditation](https://vimeo.com/user5011949), 20??  
+- [Take Time](https://vimeo.com/24331616), 2003  
+- [Smells Like Content](https://vimeo.com/24330666), 2005  
+- [Meditation](https://vimeo.com/24331455), 20??  
 
 #### Rogier van der Zwaag  
 - [Nobody Beats the Drum, Grindin](https://vimeo.com/9625370), 2010  
