@@ -28,7 +28,7 @@ Filmografia, letture ed esercizi
 #### Gustav Deutsch  
 - [Film ist... #1 Movement and time](https://www.youtube.com/watch?v=dFKFuVpaKQo), 2004  
 
-#### Oskar Fischinger  
+#### Oskar Fischinger (extracts)
 - [Studie nr. 5](https://www.youtube.com/watch?v=NmtoUN1lpf0), 1930  
 - [Studie nr. 7](https://vimeo.com/342597616), 1931  
 - [Kreise](https://www.youtube.com/watch?v=nqOyOvmY67s), 1933  
@@ -136,9 +136,9 @@ Filmografia, letture ed esercizi
 
 #### The Books  
 - [The Right Aint Shit](https://www.youtube.com/watch?v=a6KnjRJzcc4), 2003  
-- [Take Time](https://www.youtube.com/watch?v=b1irbhY_dgY), 2003  
-- [Smells Like Content](https://www.youtube.com/watch?v=LT_Uf4hq-fk), 2005  
-- Meditation, 20??  
+- [Take Time](https://vimeo.com/user5011949), 2003  
+- [Smells Like Content]((https://vimeo.com/user5011949), 2005  
+- [Meditation](https://vimeo.com/user5011949), 20??  
 
 #### Rogier van der Zwaag  
 - [Nobody Beats the Drum, Grindin](https://vimeo.com/9625370), 2010  
@@ -185,6 +185,8 @@ Filmografia, letture ed esercizi
 #### John Whitney  
 - [Vertigo](https://www.youtube.com/watch?v=Z6tG8DWmuWM), 1958  
 
+#### Industrial Jp
+- [INDUSTRIAL JP PLAYLIST](https://www.youtube.com/playlist?list=PLxEpWP3gR32kncb3EY6kcMDxSkez28XGj)
   
 ## 7. Letture  
 
