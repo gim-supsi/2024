@@ -40,7 +40,6 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 - Alberti Gaia	https://github.com/Gaialberti01/GIM		
 - Amelotti Ginevra  https://github.com/AmelottiGinevra/GIM
 - Assamoi Matteo  https://github.com/MatteoAssamoi/GIMM
-- Avci Kadir
 - Bassani Mirko  https://github.com/BassaniMirko/GIM
 - Benedetti Olivia  https://github.com/GattoViola/GIM
 - Bettazza Simone   https://github.com/simobobobo/GIM
@@ -51,7 +50,6 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 - Chicco Jacopo https://github.com/jakyten/GIM
 - Copa Arianna  https://github.com/ariannacopa/GIM
 - Esposito Gennaro	https://github.com/GennEspo/GIM
-- Ghilardi Veronica
 - Lapesa Greta  https://github.com/GretaLapesa/GIM
 - Mariucci Leonardo  https://github.com/LeoMariu/GIM
 - Martins Da Silva Margarida  https://github.com/margaridamartinss/GIM
