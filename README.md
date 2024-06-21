@@ -67,7 +67,6 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 - Spanò Beatrice  https://github.com/BeatriceSpano/GIM
 - Stanga Tommaso	https://github.com/tommifunky/GIM
 - Vaglini Valerio   https://github.com/valeriovaglini/GIM
-- Wiesendanger Anastasia  https://github.com/AnastasiaWiesendanger/GIM
 - Zanetti Piero	https://github.com/ZanettiPiero/GIM
 - Zingariello Samanta   
 - Zucca Giulia	https://github.com/ZuccaGiulia/GIM										
